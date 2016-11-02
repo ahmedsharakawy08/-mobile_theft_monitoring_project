@@ -1,0 +1,9 @@
+srs stands for software requirements specification 
+which describes the expected behavior of a software system as
+functional requirements document in an srs
+and non functional requirements such as perfomance goals
+and description of quality attributes
+and the purpose of the application to get back your mobile phone
+if stole .
+the audience expected to read this document is the project owner
+and the costumer 
